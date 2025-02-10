@@ -14,7 +14,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-application.properties
+env.properties
 
 ### Java ###
 *.class
