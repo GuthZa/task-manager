@@ -14,7 +14,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-env.properties
+src/main/resources/env.properties
 
 ### Java ###
 *.class
